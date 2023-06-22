@@ -19,6 +19,12 @@ strongly interested in working in a fast-paced environment.</p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11J8o3BDozE0QKCrvFbteWAAF-ddWXZG6/view?usp=drive_link](https://drive.google.com/file/d/11J8o3BDozE0QKCrvFbteWAAF-ddWXZG6/view?usp=drive_link)
 
+ ## 🏆 Trophies :
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rshvraj&theme=onedark" alt="vishalll069" /></a> </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-raj-b543b7242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasbe-alam-b3618a203" height="30" width="40" /></a>
