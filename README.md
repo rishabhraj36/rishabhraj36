@@ -9,7 +9,7 @@ strongly interested in working in a fast-paced environment.</p>
 
 <img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasbealam&label=Profile%20views&color=0e75b6&style=flat" alt="hasbealam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rshvraj&label=Profile%20views&color=0e75b6&style=flat" alt="rshvraj" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hasbealam.github.io/](https://hasbealam.github.io/)
 
