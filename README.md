@@ -7,24 +7,15 @@ build single-page applications. Passionate about coding and
 strongly interested in working in a fast-paced environment.</p>
 <br/>
 
-<img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
+<img align="center" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rshvraj&label=Profile%20views&color=0e75b6&style=flat" alt="rshvraj" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hasbealam.github.io/](https://hasbealam.github.io/)
-
-- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
-
-- 📫 How to reach me **rshvraj36@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11J8o3BDozE0QKCrvFbteWAAF-ddWXZG6/view?usp=drive_link](https://drive.google.com/file/d/11J8o3BDozE0QKCrvFbteWAAF-ddWXZG6/view?usp=drive_link)
 
  ## 🏆 Trophies :
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rshvraj&theme=onedark" alt="vishalll069" /></a> </p>
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rshvraj&theme=highcontrast&card_width=1200)](https://git.io/streak-stats) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-raj-b543b7242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasbe-alam-b3618a203" height="30" width="40" /></a>
@@ -36,3 +27,5 @@ strongly interested in working in a fast-paced environment.</p>
 [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasbealam/Git_Stats/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  <a href ="https://rshvraj.github.io">Portfolio<a/>
