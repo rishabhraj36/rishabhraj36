@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Rishabh Raj</h1>
+<h1 align="center">Hi 👋, I am Rishabh </h1>
 
 <p>Solution focused and detail-oriented  full-stack developer.
 Capable of writing production-ready code using React, Redux, and
