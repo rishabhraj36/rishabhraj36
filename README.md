@@ -4,7 +4,7 @@
 Capable of writing production-ready code using React, Redux, and
 CSS on the frontend, Node.js and Express.js on the backend to
 build single-page applications. Passionate about coding and
-strongly interested in working in a fast-paced environment.</p>
+strongly interested in working in a fast paced environment.</p>
 <br/>
 
 <img align="center" alt="coding" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
