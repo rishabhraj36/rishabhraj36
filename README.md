@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Rishabh </h1>
+<h1 align="center">Hi 👋 I am Rishabh </h1>
 
 <p>Solution focused and detail-oriented  full-stack developer with 3 years of experience
 Capable of writing production-ready code using React, Redux, Tailwind,MaterialUI and
