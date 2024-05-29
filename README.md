@@ -9,7 +9,7 @@
  ##  STATS :
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rshvraj&theme=highcontrast&card_width=1200)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishabhraj36&theme=highcontrast&card_width=1200)](https://git.io/streak-stats) 
 
 
 <h3 align="left">Languages and Tools:</h3>
