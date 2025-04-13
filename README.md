@@ -15,6 +15,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=rishabhraj36&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishabhraj36&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
