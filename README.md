@@ -1,6 +1,3 @@
-# 💫 About Me:
-👨‍💻 Coding aficionado with a touch of dark humor
-
 
 
 
